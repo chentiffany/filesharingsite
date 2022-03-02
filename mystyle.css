@@ -1,0 +1,32 @@
+body {
+    background-color: lavender;
+    font-family: 'Inter', sans-serif;
+    color:rebeccapurple;
+}
+input[type=text] {
+    background-color: lavender;
+    color:rebeccapurple;
+    border-radius: 5px;
+    border-color: rebeccapurple;
+  }
+  ::placeholder{
+    color:rebeccapurple;
+  }
+  input[type=submit] {
+    background-color: rebeccapurple;
+    color:lavenderblush;
+    border-radius: 5px;
+    border-color: rebeccapurple;
+  }
+button {
+    background-color: rebeccapurple;
+    color:lavenderblush;
+    border-radius: 5px;
+    border-color: rebeccapurple;
+  }
+input[type=hidden]{
+    background-color: rebeccapurple;
+    color:lavenderblush;
+    border-radius: 5px;
+    border-color: rebeccapurple;
+  }
